@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "246725060662",
+    "project_id": "cloudcomputing-46163",
+    "storage_bucket": "cloudcomputing-46163.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246725060662:android:92e30d2cbb83d06f2f5097",
+        "android_client_info": {
+          "package_name": "com.ziad.motasem.firestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246725060662-f8mqueq2fp2iaqsnq7pvc86i2d3shgco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLGauBNykcfOmwQsVsBNro0-rNokwhl2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246725060662-f8mqueq2fp2iaqsnq7pvc86i2d3shgco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246725060662:android:da88418d7717c39b2f5097",
+        "android_client_info": {
+          "package_name": "com.ziad.motasem.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246725060662-f8mqueq2fp2iaqsnq7pvc86i2d3shgco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLGauBNykcfOmwQsVsBNro0-rNokwhl2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246725060662-f8mqueq2fp2iaqsnq7pvc86i2d3shgco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
